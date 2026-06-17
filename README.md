@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building AI-integrated web applications<br>🌱 I’m currently learning GenAI
+Hi it's me, Shreeya.<br>
 
 
 ## 🌐 Socials:
