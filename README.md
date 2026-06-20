@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi it's me, Shreeya.<br>
+• Hi it's me, Shreeya.<br> 
+• Indore | Gandhinagar.<br>
+• MERN | AI/ML.<br>
 
 
 ## 🌐 Socials:
